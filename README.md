@@ -49,5 +49,5 @@
 
 <h3 align="center">📖 My Blog</h3>
 <p align="center">
-  Dive into my thoughts on tech, films, and more. <a href="blog-url">Read here</a>.
+  Dive into my thoughts on tech, films, and more. <a href="https://bejewelled-tulumba-fb355e.netlify.app/">Read here</a>.
 </p>

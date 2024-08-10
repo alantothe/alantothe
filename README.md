@@ -11,8 +11,9 @@
 
   <!-- Languages -->
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-007ACC?style=flat&logo=typescript&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-007ACC?logo=typescript&logoColor=white"/>
+
   
   
   <!-- Libraries & Frameworks -->

@@ -38,8 +38,8 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/mongo-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"/>
   <img alt="Mongoose" src="https://img.shields.io/badge/mongoose-880000?style=flat&logo=mongoose&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23336791.svg?style=flat&logo=postgresql&logoColor=white"/>  
+  <img alt="Drizzle" src="https://img.shields.io/badge/drizzle-43853D?style=flat&logo=drizzle&logoColor=white"/>
   <img alt="socket.io" src="https://img.shields.io/badge/socket.io-%238D0000.svg?style=flat&logo=socket.io&logoColor=white"/>
-<img alt="Drizzle" src="https://img.shields.io/badge/drizzle-%C5F74F?style=flat&logo=drizzle&logoColor=white"/>
 
 
 

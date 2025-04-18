@@ -21,19 +21,7 @@
   <img alt="Next.js" src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
-  <img alt="Redux" src="https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img alt="React Query" src="https://img.shields.io/badge/reactquery-cc0000?style=for-the-badge&logo=reactquery&logoColor=white"/>
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img alt="Node.js" src="https://img.shields.io/badge/node-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="Express.js" src="https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"/>
-  <img alt="Hono" src="https://img.shields.io/badge/hono-E36002?style=for-the-badge&logo=hono&logoColor=white"/>
-</p>
-
-<h3 align="center">Auth & Utilities</h3>
-<p align="center">
-  <img alt="JWT" src="https://img.shields.io/badge/jwt-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
-  <img alt="BetterAuth" src="https://img.shields.io/badge/betterauth-333333?style=for-the-badge&logo=fusionauth&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 <h3 align="center">Databases</h3>
@@ -42,7 +30,6 @@
   <img alt="Mongoose" src="https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>  
   <img alt="Drizzle" src="https://img.shields.io/badge/drizzle-43853D?style=for-the-badge&logo=drizzle&logoColor=white"/>
-  <img alt="socket.io" src="https://img.shields.io/badge/socket.io-%238D0000.svg?style=for-the-badge&logo=socket.io&logoColor=white"/>
 </p>
 
 <h3 align="center">Deployment</h3>

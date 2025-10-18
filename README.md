@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://res.cloudinary.com/dzjr3skhe/image/upload/v1694275585/m489eo9cf1101_pvkz0k.jpg" alt="Banner"/>
   
 > 💻 Alan | Full Stack Developer
 

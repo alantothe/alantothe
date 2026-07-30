@@ -8,8 +8,8 @@
       <tr>
         <td align="right" width="120"><b>Languages:</b></td>
         <td align="left">
-          <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
           <img alt="TypeScript" src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+          <img alt="Python" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
         </td>
       </tr>
       <tr>

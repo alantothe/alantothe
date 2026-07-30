@@ -1,3 +1,3 @@
-`web dev & ai engineer`
+`web developer & ai engineer`
 
-`typescript` · `javascript` · `python`
+`typescript` · `python`

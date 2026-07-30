@@ -1,3 +1,3 @@
-`Full-Stack & AI Engineer`
+`web dev & ai engineer`
 
 `typescript` · `javascript` · `python`
